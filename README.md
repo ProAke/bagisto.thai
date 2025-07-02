@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-    ➡️ <a href="https://bagisto.com/en/">Website</a> | <a href="https://devdocs.bagisto.com/">Documentation</a> | <a href="https://webkul.com/blog/laravel-ecommerce-website/">Installation Guide</a> | <a href="https://forums.bagisto.com/">Forums</a> | <a href="https://www.facebook.com/groups/bagisto/">Community</a> ⬅️
+    ➡️ <a href="https://bagisto.com/en/">เว็บไซต์</a> | <a href="https://devdocs.bagisto.com/">Documentation</a> | <a href="https://webkul.com/blog/laravel-ecommerce-website/">แนะนำการติดตั้งแบบภาษาไทย</a> | <a href="https://forums.bagisto.com/">Forums</a> | <a href="https://www.facebook.com/groups/bagisto/">Community</a> ⬅️
 </p>
 
 <p align="center" style="display: inline;">
